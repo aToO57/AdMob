@@ -1,0 +1,6 @@
+<App>
+	<JavaScript>
+	var AdMob = require("AdMob");
+	</JavaScript>
+	<Text> Hello World </Text>
+</App>
