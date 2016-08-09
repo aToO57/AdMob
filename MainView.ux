@@ -1,6 +1,11 @@
-<App>
-	<JavaScript>
-	var AdMob = require("AdMob");
-	</JavaScript>
-	<Text> Hello World </Text>
+<App Background="Green" >
+
+	<ClientPanel>
+		<Panel Width="320" Height="450" Dock="Top" Background="Red">
+			<NativeViewHost>
+				<AdMob/>
+			</NativeViewHost>
+		</Panel>
+	</ClientPanel>
+
 </App>
