@@ -1,1 +1,1 @@
-"# AdMob" 
+Only for Android
